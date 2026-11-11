@@ -49,9 +49,9 @@ a:hover { text-decoration: underline; }
 
 .avatar {
   flex: none;
-  width: 88px;
-  height: 88px;
-  border-radius: 24px;
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
   display: grid;
   place-items: center;
   background: var(--accent);
